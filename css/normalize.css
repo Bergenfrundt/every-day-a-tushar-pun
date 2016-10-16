@@ -9,7 +9,8 @@
 html {
   text-align: center;
   font-family: 'Open Sans', sans-serif; /* 1 */
-  -ms-text-size-adjust: 300%; /* 2 */
+  font-size: 40px;
+  -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
