@@ -1,7 +1,5 @@
-#Every Day A Tushar pun
+# Every Day A Tushar pun
 
-##Because we all need more tushar puns.
-
-Every day, a random tushar pun will be displayed (if i didn't fuck up).
+Every day, a random tushar pun will be displayed.
 
 Tiny project to practice very very basic html.
