@@ -7,8 +7,9 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
+  text-align: center;
+  font-family: 'Open Sans', sans-serif; /* 1 */
+  -ms-text-size-adjust: 300%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
