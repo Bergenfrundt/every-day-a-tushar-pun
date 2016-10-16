@@ -12,6 +12,7 @@ html {
   font-size: 40px;
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
+  vertical-align: middle;
 }
 
 /**
